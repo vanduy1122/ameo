@@ -8,6 +8,6 @@ namespace demo.models
 {
     internal class User
     {
-        public int ID { get; set; }
+        public int IDs { get; set; }
     }
 }
