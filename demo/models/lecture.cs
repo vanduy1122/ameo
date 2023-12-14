@@ -8,5 +8,6 @@ namespace demo.models
 {
     internal class lecture
     {
+        public int MSSV { get; set; }
     }
 }
